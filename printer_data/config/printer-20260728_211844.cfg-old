@@ -1,5 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
 [include mainsail.cfg]
 [include bedfan.cfg]
 [include Macros.cfg]
